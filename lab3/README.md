@@ -25,17 +25,17 @@
 
 **1. Етап INSERT (Додавання даних):**
 Відображення нових користувачів у системі.
-<img width="1418" alt="Insert Result 1" src="https://github.com/user-attachments/assets/337a77fa-de6f-41e5-a217-4f59aec50fac" />
+<img width="1422" alt="Select Result" src="https://github.com/user-attachments/assets/98a571cf-fb49-4b9c-88b6-9130f92bcd5d" />
 
 **2. Етап SELECT (Складні запити):**
 Перевірка фільтрації та об'єднання таблиць (JOIN).
-<img width="1423" alt="Insert Result 2" src="https://github.com/user-attachments/assets/546a7471-be1b-438e-b744-213af1fa01f2" />
-<img width="1422" alt="Select Result" src="https://github.com/user-attachments/assets/98a571cf-fb49-4b9c-88b6-9130f92bcd5d" />
+<img width="1424" alt="Update Result" src="https://github.com/user-attachments/assets/6438b647-df8c-4877-a204-6c9d8038556d" />
+<img width="1421" alt="Delete Result" src="https://github.com/user-attachments/assets/9a8ad3c3-d8a0-4c6a-a9f6-08cc982f249f" />
 
 **3. Етап UPDATE (Оновлення даних):**
 Демонстрація зміни прізвища та пошти студента.
-<img width="1424" alt="Update Result" src="https://github.com/user-attachments/assets/6438b647-df8c-4877-a204-6c9d8038556d" />
+<img width="1422" alt="Select Result" src="https://github.com/user-attachments/assets/98a571cf-fb49-4b9c-88b6-9130f92bcd5d" />
 
 **4. Етап DELETE (Видалення даних):**
 Підтвердження видалення тестового користувача (результат порожній).
-<img width="1421" alt="Delete Result" src="https://github.com/user-attachments/assets/9a8ad3c3-d8a0-4c6a-a9f6-08cc982f249f" />
+<img width="1423" alt="Insert Result 2" src="https://github.com/user-attachments/assets/546a7471-be1b-438e-b744-213af1fa01f2" />
